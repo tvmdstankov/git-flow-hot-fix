@@ -1,3 +1,7 @@
 # git-flow-hot-fix
 
 LINE 1
+
+FEATURE 1
+FEATURE 1
+FEATURE 1
